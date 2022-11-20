@@ -1,0 +1,7 @@
+.validate_star {
+    color: red;
+    margin-left: 5px;
+  }
+.error {
+    color: red;
+}
